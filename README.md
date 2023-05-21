@@ -20,6 +20,7 @@ Nothing to see here yet...🕸️
 1. Rounded corners for show covers.
 
 ## 📷 Images
+<img src="https://i.imgur.com/ETW47xr.png"/>
 <img src="https://i.imgur.com/ZhMtEMt.png"/>
 
 ## 🐦 Recommendations & Bug Reports
