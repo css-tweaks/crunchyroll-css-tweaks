@@ -1,0 +1,37 @@
+/* ==UserStyle==
+@name         crunchyroll-css-tweaks-beta
+@namespace    https://github.com/Matewoo/crunchyroll-css-tweaks
+@version      0.0.1-beta
+@description  A few small tweaks for Crunchyroll.com, like a more modern appearance.
+@author       Matewoo
+==/UserStyle== */
+@-moz-document domain("crunchyroll.com") {
+
+    body {
+        background: #220b04;
+    }
+    
+    .card-watchlist-label--EUFMb {
+        color: transparent;
+    }
+    
+    .browse-card-static__poster-wrapper--Ph975 .browse-card-static__poster--JN40L .content-image__figure--7vume .content-image__image--7tGlg {
+        border-radius: 20px;
+    }
+    
+    .browse-card-static--UqkrO:has(.card-watchlist-label--EUFMb) .browse-card-static__poster-wrapper--Ph975 .browse-card-static__poster--JN40L .content-image__figure--7vume .content-image__image--7tGlg {
+        border-top-right-radius: 55px;
+    }
+    
+    .content-image-figure-wrapper__figure-sizer--SH2-x {
+        background: transparent;  
+    }
+    
+    .browse-card-static__poster-wrapper--Ph975:after {
+        background-color: transparent;
+    }
+    
+    .carousel-arrow--zNu4D {
+        border-radius: 20px;
+    }
+}
