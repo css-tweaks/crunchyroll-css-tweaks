@@ -1,6 +1,6 @@
 /* ==UserStyle==
-@name         crunchyroll-css-tweaks
-@namespace    https://github.com/Matewoo/crunchyroll-css-tweaks
+@name         crunchyroll-css-tweaks-beta
+@namespace    https://github.com/css-tweaks/crunchyroll-css-tweaks
 @version      0.0.0
 @description  A few small tweaks for Crunchyroll.com, like a more modern appearance.
 @author       Matewoo
@@ -31,7 +31,39 @@
         background-color: transparent;
     }
     
-    .carousel-arrow--zNu4D {
+    .carousel-arrow--zNu4D, .button--xqVd0.button--is-type-six--gfrLK, .carousel-tabs__tab--2llK3, .carousel-tabs__tab--2llK3:after {
         border-radius: 20px;
+    }
+    
+    .content-wrapper--MF5LS .content-image--3na7E .content-image__figure--7vume .content-image__image--7tGlg {
+        border-radius: 20px;
+        object-fit: cover;
+        width:auto;
+        height:auto;
+        max-width:100%;
+        max-height: 100%;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .carousel-tabs__tab--2llK3 {
+        border-radius: 20px;
+        overflow: hidden;
+    }
+    
+    .text--gq6o-.text--is-heavy--2YygX.text--is-s--JP2oa.carousel-tabs__text--0u5cK {
+        text-align: center;
+    }
+    
+    .carousel-tabs__tab--is-active--OWPNm .carousel-tabs__tab-indicator--3HRs7 {
+        color: rgba(0, 0, 0, 0);
+        height: 100%;
+    }
+    
+    .carousel-tabs__tab-indicator--3HRs7:before {
+        background-color: rgba(244, 117, 33, .24);
+        border-radius: 0px 20px 20px 0px;
     }
 }
