@@ -1,7 +1,7 @@
 # 🌐 crunchyroll-css-tweaks v.0.0.0
 A few small tweaks for [Crunchyroll](https://crunchyroll.com/), like a more modern appearance.
 
-## ⬇️ Instalation
+## ⬇️ Installation
 1. Download and install the "Stylus" browser extension from [here (GitHub)](https://github.com/openstyles/stylus), via the [Web Store (Chromium)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?) or via the [Add-ons Store (Firefox)](https://addons.mozilla.org/de/firefox/addon/styl-us/).
 2. Then download and install the "crunchyroll-css-tweaks" Theme from [here (userstyles.world)]() or from [here (GitHub)]().
 3. That's it!
