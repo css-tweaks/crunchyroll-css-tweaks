@@ -24,3 +24,6 @@ Nothing to see here yet...🕸️
 
 ## 🐦 Recommendations & Bug Reports
 If you have any suggestions, requests, bugs or need help you can message me via [twitter](https://twitter.com/Matewoo_) or directly through the issues.
+
+<img src="https://i.imgur.com/mgBInh0.png" width="50%"/> <br>
+_*created entirely by AI_
