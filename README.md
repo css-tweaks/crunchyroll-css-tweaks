@@ -6,8 +6,8 @@ A few small tweaks for [Crunchyroll](https://crunchyroll.com/), like a more mode
 2. Then download and install the "crunchyroll-css-tweaks" Theme from [here (userstyles.world)]() or from [here (GitHub)]().
 3. That's it!
 
-## ⚠️ WIP
-This Theme is currently Work in planning. It will be started very soon. <br>
+## ⚠️ In planning
+This Theme is currently in planning. It will be started very soon. <br>
 You can find more informations [here]().
 
 ## 🐞 Beta
