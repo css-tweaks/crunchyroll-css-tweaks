@@ -1,6 +1,9 @@
 # 🌐 crunchyroll-css-tweaks v.0.0.0
 A few small tweaks for [Crunchyroll](https://crunchyroll.com/), like a more modern appearance.
 
+> This GitHub repository is not affiliated with [Crunchyroll](https://crunchyroll.com/) in any way. We are not an official partner of [Crunchyroll](https://crunchyroll.com/), and we do not have any special relationship with them. The code and documentation in this repository are provided for entertainment purposes only, and should not be construed as an endorsement or recommendation by [Crunchyroll](https://crunchyroll.com/).<br>
+> The official Crunchyroll website can be found at [crunchyroll.com](https://crunchyroll.com/).
+
 ## ⬇️ Installation
 1. Download and install the "Stylus" browser extension from [here (GitHub)](https://github.com/openstyles/stylus), via the [Web Store (Chromium)](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?) or via the [Add-ons Store (Firefox)](https://addons.mozilla.org/de/firefox/addon/styl-us/).
 2. Then download and install the "crunchyroll-css-tweaks" Theme from [here (userstyles.world)](https://userstyles.world/style/9934/crunchyroll-css-tweaks) or from [here (GitHub)](https://raw.githubusercontent.com/css-tweaks/crunchyroll-css-tweaks/main/crunchyroll-tweaks.user.css).
