@@ -1,4 +1,4 @@
-# 🌐 crunchyroll-css-tweaks v.0.0.0
+# 🌐 crunchyroll-css-tweaks v.0.0.0 (for beta.crunchyroll)
 A few small tweaks for [Crunchyroll](https://crunchyroll.com/), like a more modern appearance.
 
 > This GitHub repository is not affiliated with [Crunchyroll](https://crunchyroll.com/) in any way. We are not an official partner of [Crunchyroll](https://crunchyroll.com/), and we do not have any special relationship with them. The code and documentation in this repository are provided for entertainment purposes only, and should not be construed as an endorsement or recommendation by [Crunchyroll](https://crunchyroll.com/).<br>
