@@ -1,0 +1,93 @@
+body {
+    background: #220b04;
+}
+
+[class^="browse-card__poster-wrapper"], [class^="button--"], [class^="playable-card__thumbnail-wrapper"], [class*="playable-thumbnail__duration"] {
+    border-radius: 20px !important;
+    overflow: hidden !important;
+}
+
+[class^="browse-card-hover__content"] {
+    border-radius: 15px !important;
+}
+
+[class^="content-image__image"] {
+    border-radius: 20px !important;
+    overflow: hidden !important;
+}
+
+[class^="tooltip-icon__action-icon-button"] {
+    background-color: black !important;
+    border: 2px solid rgb(255,100,10) !important;
+    padding: 2px !important;
+    border-radius: 100% !important;
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+
+button[data-t="play-button"] {
+    transform: rotate(0deg);
+    transition: transform 0.6s ease;
+}
+
+button[data-t="play-button"]:hover {
+    transform: rotate(360deg);
+}
+
+button[data-t="add-to-watchlist-btn"]:hover, button[data-t="remove-from-watchlist-btn"]:hover {
+    animation: shake-rotate 0.4s ease-in-out;
+}
+
+button[data-t="add-to-custom-list"] {
+    transform: rotate(0deg);
+    transition: transform 0.3s ease;
+}
+
+button[data-t="add-to-custom-list"]:hover {
+    transform: rotate(90deg);
+}
+
+@keyframes spin-once {
+    from { transform: rotate(0deg); }
+    to   { transform: rotate(360deg); }
+}
+
+@keyframes shake-rotate {
+    0%   { transform: rotate(0deg); }
+    25%  { transform: rotate(-10deg); }
+    50%  { transform: rotate(10deg); }
+    75%  { transform: rotate(-8deg); }
+    100% { transform: rotate(0deg); }
+}
+
+[class^="card-watchlist-label__background"] {
+    top: 5px;
+    right: 5px;
+    border-radius: 100%;
+    background-color: #000000c4 !important;
+    border: 2px solid rgb(255,100,10) !important;      /* entfernt das Dreiecks-Border */
+    width: 2rem !important;
+    height: 2rem !important;
+}
+
+[class^="card-watchlist-label__icon"] {
+    top: 12px;
+    right: 10.9px;
+    width: 1.2rem !important;
+    height: 1.2rem !important;
+}
+
+
+@media (min-width: 50em) {
+    [class^="hero-background--"]:after {
+        background: linear-gradient(to bottom,#220b0400 50%,#220b04 100%),linear-gradient(to var(--cr-end-direction),rgba(34,11,4,.851) 0,rgba(34,11,4,.502) 30%,#220b0400 55%) !important;
+    }
+}
+
+[class^="hero-carousel--"] {
+    background: #220b04 !important;
+}
+
+[class^="hero-background"]:after {
+    background: linear-gradient(to bottom,#220b0400 50%,#220b04 100%),linear-gradient(to var(--cr-end-direction),rgba(34,11,4,.851) 0,rgba(34,11,4,.502) 30%,#220b0400 55%) !important;
+}
